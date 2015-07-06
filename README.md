@@ -11,6 +11,7 @@
 	- rock-step, kick-down, kick-up, kick, down
 * hand 2 hand
 	- kick and kick (simplified charleston with turns)
+
 ### moves
 * bust-outs (eight beet rythms)
 	- both facing front + walking
@@ -21,12 +22,13 @@
 * swing-out
 	- circle -> swingout from open to closed
 	- swing out from open to open (the classic swing-out)
+
 ### Remember!
 * tension in the arms + body
 * linear movement during swing out
 * bust outs "feel the step" - let the ground absorb it (especially in the change of direction)
+
 # Lesson 2
-======
 ### moves
 * Tandem
   * entry
@@ -40,12 +42,11 @@
     * corridors (the one I did not get)
   * exit
     * hand to hand, 'ooooo', backstep + lindy turn (optional)
+
 # NEXT TIME:
-=====
 * eight beat moves
-====
+
 # LIST OF MOVES
-====
 * bust-outs (frontFacing, fFront, lFront, side, butterfly)
 * swing-out (open_2_closed / open_2_open)
 * Tandem (3 entries, 4 withins, 1 exit)
