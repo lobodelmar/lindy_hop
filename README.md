@@ -1,6 +1,4 @@
 # Lesson 1
-======
-
 ### beats
 * six-count (rock n' roll)
 	- rock step + pump (instead of the side we do front heel)
@@ -14,7 +12,6 @@
 	- rock-step, kick-down, kick-up, kick, down
 * hand 2 hand
 	- kick and kick (simplified charleston with turns)
-
 ### moves
 * bust-outs (eight beet rythms)
 	- both facing front + walking
@@ -22,18 +19,13 @@
 	- lead bust out (I come to the front)
 	- side bust out both of us facing each other, forcing her to take a side step like me
 	- butterfly (bust out w/ a twist) - turn in the end half a circle for the step+step, before going back the same way as you came
-
 * swing-out
 	- circle -> swingout from open to closed
 	- swing out from open to open (the classic swing-out)
-
 ### Remember!
 * tension in the arms + body
 * linear movement during swing out
 * bust outs "feel the step" - let the ground absorb it (especially in the change of direction)
-
-
-
 # Lesson 2
 ======
 ### moves
@@ -49,15 +41,10 @@
     * corridors (the one I did not get)
   * exit
     * hand to hand, 'ooooo', backstep + lindy turn (optional)
-    
 # NEXT TIME:
 =====
 * eight beat moves
-
-
 ====
-====
-
 # LIST OF MOVES
 ====
 * bust-outs (frontFacing, fFront, lFront, side, butterfly)
