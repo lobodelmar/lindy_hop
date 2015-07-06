@@ -4,7 +4,6 @@
 	- rock step + pump (instead of the side we do front heel)
 	- rock step + triple step
 * eight count (classic swing - extra step+step)
-
 * charleston 20s
 	- the one with the semicircles
 	- scissors (in-out the backs - keep weight on balls of the feet)
