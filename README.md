@@ -43,10 +43,22 @@
   * exit
     * hand to hand, 'ooooo', backstep + lindy turn (optional)
 
-# NEXT TIME:
-* eight beat moves
-
-# LIST OF MOVES
+# Lesson 3:
+* lindy turn / swing out
+  * inside turn (looking at the watch)
+  * outside turn
+  * free turn (same as outside, just no hands)
+  * texas tommy
+  * fake texas tommy (absorb the movement of the follow on the 5)
+  * fake lindy turn (keep hands near her body on switch from 5 to 6)
+* Remember:
+  * stay relaxed
+  * stay grounded
+  * focus on moving body (ignore follow & steps)
+  * make sure the rock step is subtle but clear (achieved by moving one's body)
+  
+# SUMMARY LIST OF MOVES
 * bust-outs (frontFacing, fFront, lFront, side, butterfly)
 * swing-out (open_2_closed / open_2_open)
 * Tandem (3 entries, 4 withins, 1 exit)
+* lindy turns: inside/outside/free/texas/fakeTexas/fakeLindy
