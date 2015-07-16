@@ -56,7 +56,16 @@
   * stay grounded
   * focus on moving body (ignore follow & steps)
   * make sure the rock step is subtle but clear (achieved by moving one's body)
-  
+
+# Lesson 4: revision
+
+# Lesson 5:
+  * Kick-ball-change instead of rock step
+  * Sweep floor at 7+8
+  * 5-6 with 5 lasting less and 6 more while stretching your body upwards
+  * Rockstep with 2 being a jump and fitting an extra, fat step when landing and moving on
+  * "Scissors" on 7,8,1,2, and then triple step
+
 # SUMMARY LIST OF MOVES
 * bust-outs (frontFacing, fFront, lFront, side, butterfly)
 * swing-out (open_2_closed / open_2_open)
