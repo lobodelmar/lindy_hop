@@ -71,3 +71,4 @@
 * swing-out (open_2_closed / open_2_open)
 * Tandem (3 entries, 4 withins, 1 exit)
 * lindy turns: inside/outside/free/texas/fakeTexas/fakeLindy
+* footwork: kickball vs rock / sweep@78 / 5_short_6_STRECHED / jump on 2 / scissors@7812
