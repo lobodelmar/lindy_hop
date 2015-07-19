@@ -66,9 +66,14 @@
   * Rockstep with 2 being a jump and fitting an extra, fat step when landing and moving on
   * "Scissors" on 7,8,1,2, and then triple step
 
+# Lesson 6:
+  * bringing it all together
+  * basket - I hug the female and then I make her do 2 turns one with each arm.
+
 # SUMMARY LIST OF MOVES
 * bust-outs (frontFacing, fFront, lFront, side, butterfly)
 * swing-out (open_2_closed / open_2_open)
 * Tandem (3 entries, 4 withins, 1 exit)
 * lindy turns: inside/outside/free/texas/fakeTexas/fakeLindy
 * footwork: kickball vs rock / sweep@78 / 5_short_6_STRECHED / jump on 2 / scissors@7812
+* basket
