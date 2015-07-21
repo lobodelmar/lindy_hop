@@ -70,6 +70,14 @@
   * bringing it all together
   * basket - I hug the female and then I make her do 2 turns one with each arm.
 
+# Lesson 7:
+  * Swing out with 1,2 being forward kicks underneath you. There is an extra slittle step like in the jumpy 1,2
+  * Passing under the arm of the girl at 5,6 with 5 being short and 6 being long. 7,8 can be playful
+  * Reverse swing out with 4 pairs of steps (rather than triple steps)
+  * Forward-facing swing out. I don't turn - Wait for the girl to unravel me
+  * 20s Charleston swing outs. Tap and step tap and step. Create momentum by tapping behind you instead of in front.
+
+
 # SUMMARY LIST OF MOVES
 * bust-outs (frontFacing, fFront, lFront, side, butterfly)
 * swing-out (open_2_closed / open_2_open)
@@ -77,3 +85,5 @@
 * lindy turns: inside/outside/free/texas/fakeTexas/fakeLindy
 * footwork: kickball vs rock / sweep@78 / 5_short_6_STRECHED / jump on 2 / scissors@7812
 * basket
+* swingout with 1,2 forward kicks
+* swingouts: under arm / reverse / forward-facing / 20s Charleston
